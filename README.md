@@ -9,8 +9,8 @@
 ```bash
 # 本地 bundle
 dsh plugin add ./dsh-reason-guard
-# 从 GitHub（发布后）
-dsh plugin add github:zhaosihao2016/dsh_zhaosihao
+# 从 GitHub
+dsh plugin add github:zhaosihao2016/dsh-reason-guard
 ```
 
 重启 Harness 后生效。
