@@ -1,0 +1,6 @@
+{
+  "id": "dsh-external/dsh-reason-guard",
+  "engines": {
+    "dsh": ">=0.1.1-rc.2 <0.3.0"
+  }
+}
